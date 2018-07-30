@@ -8,7 +8,7 @@ export default ({ children }) => (
           Created by{' '}
           <a
             href="https://twitter.com/frozzare"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer nofllow"
             target="_blank"
           >
             @frozzare
@@ -16,7 +16,7 @@ export default ({ children }) => (
           and{' '}
           <a
             href="https://twitter.com/kolombiken"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer nofollow"
             target="_blank"
           >
             @kolombiken
@@ -24,7 +24,7 @@ export default ({ children }) => (
         </p>
         <p>
           <a
-            href="https://github.com/swedishtechevents"
+            href="https://github.com/reftoken"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -33,13 +33,13 @@ export default ({ children }) => (
           &nbsp;
           -
           &nbsp;
-          <a
-            href="https://twitter.com/swetechevents"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            @swetechevents
-          </a>
+          // <a
+          //   href="https://twitter.com/swetechevents"
+          //   rel="noopener noreferrer"
+          //   target="_blank"
+          // >
+          //   @swetechevents
+          // </a>
         </p>
         <p>© {new Date().getFullYear()}</p>
       </div>

@@ -1,6 +1,4 @@
-# swedishtechevents.github.io
 
-Site for [https://swedishtechevents.com](https://swedishtechevents.com)
 
 ## Available Scripts
 
